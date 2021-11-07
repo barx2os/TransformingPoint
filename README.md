@@ -5,4 +5,4 @@ Certain Amount Of Cube Lerping Their Position Between Cube and Spehere Basis; <b
 	- a camera orbit script to watch transformation. <br />
 	
 Visual Demonstration <br />
-https://github.com/barx2os/TransformingPoint/issues/1#issue-1045167577
+https://user-images.githubusercontent.com/45513660/140653654-d6763a7d-5aef-449a-a829-86a9e858b966.mp4
